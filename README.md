@@ -1,5 +1,3 @@
-# There is a slightly different approach based on Utility CSS. Check it out https://github.com/tomaszbujnowicz/hybrid-utility-itcss
-
 # Frontie Webpack - Front-end Boilerplate
 
 **🚀 Gulp 4 + Webpack 4 + Babel + BrowserSync + ITCSS Architecture + BEM Methodology**
@@ -70,7 +68,3 @@ Clone this repository and run
 |--webpack.config.js       # →  Webpack config
 |--yarn.lock               # →  Yarn lock file (never edit)
 ```
-
-## Copyright and license
-
-Copyright 2018-2019 Tomasz Bujnowicz under the [MIT license](http://opensource.org/licenses/MIT).
